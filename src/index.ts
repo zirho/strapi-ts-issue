@@ -1,3 +1,10 @@
+// type ParamsT = null | undefined | { a?: string };
+
+// function myFunction(params?: ParamsT) {
+//   console.log("params.a", params.a);
+//   console.log("params.b", params.b);
+// }
+
 export default {
   /**
    * An asynchronous register function that runs before
